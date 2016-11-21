@@ -1,0 +1,6 @@
+com/mycompany/library_backend_client/ejb/NewSessionBean.class
+com/library/facade/remote/LibraryInterfazRemote.class
+com/library/model/BasicAttributes.class
+com/library/facade/remote/BookInterfazRemote.class
+com/library/model/Book.class
+com/library/model/Library.class

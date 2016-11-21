@@ -1,0 +1,8 @@
+/home/syslife01/NetBeansProjects/library/library_backend_persistance-ejb/src/main/java/com/library/local/facade/AbstractFacade.java
+/home/syslife01/NetBeansProjects/library/library_backend_persistance-ejb/src/main/java/com/library/local/facade/LibraryFacadeLocal.java
+/home/syslife01/NetBeansProjects/library/library_backend_persistance-ejb/src/main/java/com/library/remote/facade/LibraryBusinessFacade.java
+/home/syslife01/NetBeansProjects/library/library_backend_persistance-ejb/src/main/java/com/mycompany/NewSessionBean.java
+/home/syslife01/NetBeansProjects/library/library_backend_persistance-ejb/src/main/java/com/library/local/facade/LibraryFacade.java
+/home/syslife01/NetBeansProjects/library/library_backend_persistance-ejb/src/main/java/com/library/local/facade/BookFacadeLocal.java
+/home/syslife01/NetBeansProjects/library/library_backend_persistance-ejb/src/main/java/com/library/remote/facade/BookBusinessFacade.java
+/home/syslife01/NetBeansProjects/library/library_backend_persistance-ejb/src/main/java/com/library/local/facade/BookFacade.java

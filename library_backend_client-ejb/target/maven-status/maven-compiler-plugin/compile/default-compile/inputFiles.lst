@@ -1,0 +1,7 @@
+/home/syslife01/NetBeansProjects/library/library_backend_client-ejb/src/main/java/com/library/facade/remote/LibraryInterfazRemote.java
+/home/syslife01/NetBeansProjects/library/library_backend_client-ejb/src/main/java/com/library/model/BasicAttributes.java
+/home/syslife01/NetBeansProjects/library/library_backend_client-ejb/src/main/java/com/library/model/Book.java
+/home/syslife01/NetBeansProjects/library/library_backend_client-ejb/src/main/java/com/library/model/User.java
+/home/syslife01/NetBeansProjects/library/library_backend_client-ejb/src/main/java/com/library/facade/remote/BookInterfazRemote.java
+/home/syslife01/NetBeansProjects/library/library_backend_client-ejb/src/main/java/com/library/model/Library.java
+/home/syslife01/NetBeansProjects/library/library_backend_client-ejb/src/main/java/com/mycompany/library_backend_client/ejb/NewSessionBean.java
